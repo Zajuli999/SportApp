@@ -1,0 +1,5 @@
+include ':maps'
+include ':core'
+rootProject.name='Sport App'
+include ':app'
+include ':favorit'
